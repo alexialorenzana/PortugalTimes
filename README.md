@@ -41,7 +41,7 @@ Cors - Establishing connection to Node.js and MySQL
 Axios - Make HTTP requests to the Node server
 MySQL - Database
 
-Authors & License
+Authors 
 
 Alannah Gregory
 Alexia Lorenzana
